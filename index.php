@@ -21,6 +21,7 @@
     <div class="container">
         <h1>Data Buku</h1>
         <a href="Tambah.php" class="btn btn-info text-light mt-3 ">Tambah Buku</a>
+        <a href="keluar.php" class="btn btn-danger text-light mt-3 ">keluar</a>
         <form method="GET" class="mt-3">
             <div class="form-group">
                 <label for="keyword"> SEARCH </label>
